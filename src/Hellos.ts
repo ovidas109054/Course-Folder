@@ -8,7 +8,7 @@ type student = {
     name : string;
     class: string;
     id :number;
-    age: numbe;
+    age: number;
 }
 
 const Ovi:student={
