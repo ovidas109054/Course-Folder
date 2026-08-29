@@ -12,4 +12,12 @@ var day;
 })(day || (day = {}));
 const Day = day.Monday;
 console.log(Day);
+var Light;
+(function (Light) {
+    Light["Red"] = "red";
+    Light["Blue"] = "blue";
+    Light["Yellow"] = "yellow";
+    Light["Orange"] = "orange";
+})(Light || (Light = {}));
+console.log(Light.Blue);
 //# sourceMappingURL=Enum.js.map
