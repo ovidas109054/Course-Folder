@@ -17,4 +17,5 @@ const Halend = {
     section: "Mid",
     caracter: "Student"
 };
+console.log("Hello!");
 //# sourceMappingURL=Hellos.js.map
