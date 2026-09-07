@@ -1,0 +1,17 @@
+let value : unknown;
+
+let myvalue = value as string;
+
+console.log(myvalue);
+
+
+// In the case of String assertion
+//let value: unknown = "Hello";
+
+//let message = value as string;
+
+//console.log(message.toUpperCase());
+
+//let value = "100";
+
+//let numberValue = Number(value);
